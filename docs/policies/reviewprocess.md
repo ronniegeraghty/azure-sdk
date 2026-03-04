@@ -37,8 +37,8 @@ It’s critical that library owners engage with the architecture board early eno
 
 ## Types of reviews and what to prepare
 
-There are two types of reviews: Introduction and Follow-Up. Reviews are conducted asynchronously by default; meetings are scheduled only when an architect determines a deeper discussion is needed.
-For internal teams, use the [Review Request Tool](https://aka.ms/azsdk/onboarding/archboardschedule) to request a review. Select whether you are introducing a new service to the review board ("Introduction") or following up on a previous introduction, need an SDK API review or an SDK API approval ("Follow-Up"). Requirements for each type of review are detailed below.
+There are three stages of review engagement with the Architecture Board: Service Introduction, Beta (Preview) Review, and Stable (GA) Review. Reviews are conducted asynchronously by default via email and APIView; synchronous meetings are scheduled only when needed for complex discussions.
+For internal teams, see the [Architecture Board Review Guide](https://aka.ms/azsdk/onboarding/archboardschedule) for detailed instructions on how to request a review at each stage. Key requirements for each review stage are also summarized below.
 
 ### 1. Introductory Session
 
